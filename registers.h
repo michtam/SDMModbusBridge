@@ -1,4 +1,4 @@
-1const int sdm_registers[] = {
+const int sdm_registers[] = {
   // source https://github.com/reaper7/SDM_Energy_Meter/blob/master/SDM.h
   //ADDR     REGISTER NAME                                UNIT          | SDM630  | SDM230  | SDM220  | SDM120CT| SDM120  | SDM72D  |
   0x0000, // SDM_PHASE_1_VOLTAGE                          [V]           |    1    |    1    |    1    |    1    |    1    |         |
